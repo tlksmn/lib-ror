@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  book_publisher: one
+  book: one
+  ind_code: MyString
+
+two:
+  book_publisher: two
+  book: two
+  ind_code: MyString

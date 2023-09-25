@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shelf: one
+  book_publisher: one
+  lib: one
+  book: one
+  floor: 1
+
+two:
+  shelf: two
+  book_publisher: two
+  lib: two
+  book: two
+  floor: 1
